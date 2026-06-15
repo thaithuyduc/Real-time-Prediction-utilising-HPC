@@ -97,6 +97,7 @@ The model demonstrates strong capability in learning macro price trends but has 
 ⸻
 
 System Architecture
+
 <img width="690" height="468" alt="image" src="https://github.com/user-attachments/assets/dfd9b75e-f833-403f-8972-d525042c778c" />
 
 ⸻
@@ -139,6 +140,12 @@ Responsible for:
 
 ⸻
 
+## Project Root
+1. Backend: store Django acting as orchestrator
+2. Frontend: React code for Display
+3. Services: include Model Inference Service and Streaming Service built by FastAPI
+4. Experiment: used for testing and development
+
 ## Technology Stack
 
 Machine Learning
@@ -178,4 +185,8 @@ Future Improvements
 * CI/CD integration using GitHub Actions
 
 ⸻
+
+Final Result from System
+
+<img width="601" height="320" alt="image" src="https://github.com/user-attachments/assets/fd2c5c3c-7657-42c0-890a-ee0425b38828" />
 
