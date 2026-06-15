@@ -78,15 +78,19 @@ LSTM networks were employed to capture temporal dependencies within minute-level
 
 Long-Term Trend Forecasting
 
-Metric	Score
-R²	0.99
+Metric: $R^2$
+Score: 0.99
+
+<img width="438" height="421" alt="image" src="https://github.com/user-attachments/assets/26e1fd91-d076-4b84-8a8d-6d88dc87a081" />
 
 The model successfully captures the overall market trend and long-term price movements.
 
 Short-Term Forecasting
 
-Metric	Score
-R²	0.22
+Metric: $R^2$	
+Score: 0.22
+
+<img width="425" height="406" alt="image" src="https://github.com/user-attachments/assets/614c55a6-230a-48a5-b5f2-5bf467542a89" />
 
 Although long-term trend prediction performs well, short-term minute-by-minute price fluctuations remain challenging due to the highly stochastic nature of financial markets.
 
